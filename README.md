@@ -3,9 +3,9 @@ Just me on my journey through the world of code, wish me luck..
 
 # 60-Day Web Development Mastery Roadmap
 
-Owner: <your-name-or-team>  
-Start date: YYYY-MM-DD  
-Target end date: YYYY-MM-DD
+Owner: Sibusiso Ndlovu  
+Start date: 2025-12-02  
+Target end date: 2026-01-31
 
 ## Overview
 Transform from beginner to job-ready developer in 60 days with 4-6 hours daily commitment.
